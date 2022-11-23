@@ -1,7 +1,7 @@
 #ifndef UndirectedWeightedGraph_h
 #define UndirectedWeightedGraph_h
-#include <DataStructures/WeightedGraph.h>
-#include <DataStructures/UndirectedGraph.h>
+#include "WeightedGraph.h"
+#include "UndirectedGraph.h"
 template<class T>
 class UndirectedWeightedGraph : virtual public WeightedGraph<T>
 {

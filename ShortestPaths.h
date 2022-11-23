@@ -5,10 +5,10 @@
 #include <optional>
 #include <cassert>
 #include <queue>
-#include <DataStructures/WeightedGraph.h>
-#include <DataStructures/Graph.h>
-#include <DataStructures/UndirectedWeightedGraph.h>
-#include <DataStructures/UndirectedGraph.h>
+#include "WeightedGraph.h"
+#include "Graph.h"
+#include "UndirectedWeightedGraph.h"
+#include "UndirectedGraph.h"
 #include <unordered_map>
 #include <type_traits>
 //#include <iostream>

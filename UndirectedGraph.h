@@ -1,6 +1,6 @@
 #ifndef UndirectedGraph_h
 #define UndirectedGraph_h
-#include "DataStructures/Graph.h"
+#include "Graph.h"
 class UndirectedGraph : virtual public Graph
 {
 public:

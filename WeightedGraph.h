@@ -1,8 +1,8 @@
 #ifndef WeightedGraph_h
 #define WeightedGraph_h
-#include "DataStructures/Graph.h"
+#include "Graph.h"
 #include <map>
-#include <DataStructures/WeightedEdge.h>
+#include "WeightedEdge.h"
 template<class T>
 class WeightedGraph : virtual public Graph
 {

@@ -2,7 +2,7 @@
 #define GRAPH_H
 #include <set>
 #include <vector>
-#include <DataStructures/Edge.h>
+#include "Edge.h"
 using namespace std;
 class Graph {
  public:

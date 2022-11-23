@@ -1,4 +1,4 @@
-#include <DataStructures/Edge.h>
+#include "Edge.h"
 int Edge::GetDestination() const
 {
     return d;

@@ -5,10 +5,10 @@
 #include <optional>
 #include <set>
 #include <queue>
-#include <DataStructures/WeightedGraph.h>
-#include <DataStructures/Graph.h>
-#include <DataStructures/UndirectedWeightedGraph.h>
-#include <DataStructures/UndirectedGraph.h>
+#include "WeightedGraph.h"
+#include "Graph.h"
+#include "UndirectedWeightedGraph.h"
+#include "UndirectedGraph.h"
 template <typename TGraph>
 class DepthFirstSearcher {
  public:

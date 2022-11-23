@@ -1,7 +1,7 @@
 #ifndef BellmanFordShortestPaths_h
 #define BellmanFordShortestPaths_h
 
-#include <Algorithms/ShortestPaths.h>
+#include "ShortestPaths.h"
 
 template<typename TGraph>
 class BellmanFordShortestPaths : public ShortestPaths<TGraph>

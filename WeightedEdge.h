@@ -1,6 +1,6 @@
 #ifndef WeightedEdge_h
 #define WeightedEdge_h
-#include "DataStructures/Edge.h"
+#include "Edge.h"
 template<class T>
 class WeightedEdge : public Edge
 {
